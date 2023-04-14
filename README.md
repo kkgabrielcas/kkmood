@@ -1,16 +1,15 @@
 ### Oi, eu sou Mood ⚖
 
-<!--
-**kkmood/kkmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wallhaven-lqw5wr_2560x1440~2](https://user-images.githubusercontent.com/108163958/231914865-d82ba7b5-7687-4767-919b-73ecb6d3e326.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+```java
+public class: mood = {
+  languages: ["Portugese == Native"], ["English"],
+  hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
+  studying: ["System Analyst - Fortaleza/CE",],
+  code: ("Java");
+  funFact: "sou boboca";
+}
