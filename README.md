@@ -10,7 +10,7 @@ public class: mood = {
   hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
   languages: ["Portugese - Native"], ["English"],
   studying: ["System Analyst - Fortaleza/CE"],
-  code: ("Java");
+  code: ("Java && JavaScript");
   funFact: "sou boboca"
 }
 ```
