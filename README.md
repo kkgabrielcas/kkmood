@@ -24,3 +24,4 @@ public class: mood = {
 <a href="https://kkmood.github.io/HTML" target="_blank" rel="noreferrer">
   <img src="https://user-images.githubusercontent.com/108163958/231924583-ab044388-57ab-40a8-b7b4-c5574495e231.png" alt="discord" width="40" height="40"/>
 </a>
+<a href="https://steamcommunity.com/id/moodkk/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/108163958/231929728-0cd56920-71f5-4835-a135-e24bf699dc2d.png" alt="steam" width="40" height="40"/> </a>  
