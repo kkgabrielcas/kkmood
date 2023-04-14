@@ -7,7 +7,7 @@
 
 ```java
 public class: mood = {
-  languages: ["Portugese == Native"], ["English"],
+  languages: ["Portugese - Native"], ["English"],
   hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
   studying: ["System Analyst - Fortaleza/CE",],
   code: ("Java");
