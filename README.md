@@ -1,7 +1,10 @@
 ### Oi, eu sou Mood ⚖
 
 ![wallhaven-lqw5wr_2560x1440~2](https://user-images.githubusercontent.com/108163958/231914865-d82ba7b5-7687-4767-919b-73ecb6d3e326.png)
-
+<hr>
+<h5 align='center'>
+  / <> with 🧡 By <a href="https://github.com/kkmood">Gabriel</a> /
+<h5>
 
 ## Sobre mim
 
@@ -17,6 +20,9 @@ public class: mood = {
 
 <h3 align="left">Mais sobre mim :)</h3>
 
+  <a href="https://twitter.com/kkmood0" target="_blank" rel="noreferrer"> 
+  <img src="https://user-images.githubusercontent.com/108163958/231924005-c4bc579d-705d-475a-9b7d-5bbe9558d5c1.png" alt="twitter" width="40" height="40"/>
+</a> 
 
 
 <p align="left"> 
