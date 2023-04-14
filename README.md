@@ -7,8 +7,9 @@
 
 ```java
 public class: mood = {
-  languages: ["Portugese - Native"], ["English"],
+  name: ["Gabriel],
   hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
+  languages: ["Portugese - Native"], ["English"],
   studying: ["System Analyst - Fortaleza/CE",],
   code: ("Java");
   funFact: "sou boboca";
