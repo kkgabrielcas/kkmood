@@ -20,10 +20,6 @@ public class: mood = {
 
 <h3 align="left">Mais sobre mim :)</h3>
 
-  <a href="https://twitter.com/kkmood0" target="_blank" rel="noreferrer"> 
-  <img src="https://user-images.githubusercontent.com/108163958/231924005-c4bc579d-705d-475a-9b7d-5bbe9558d5c1.png" alt="twitter" width="40" height="40"/>
-</a> 
-
 
 <p align="left"> 
   <a href="https://open.spotify.com/user/x7mx1q4qmpfw5ud5hf8229u3o" target="_blank" rel="noreferrer"> 
