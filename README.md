@@ -11,7 +11,7 @@ public class: mood = {
   languages: ["Portugese - Native"], ["English"],
   studying: ["System Analyst - Fortaleza/CE"],
   code: ("Java");
-  funFact: "sou boboca";
+  funFact: "sou boboca"
 }
 ```
 
