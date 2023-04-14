@@ -7,7 +7,7 @@
 
 ```java
 public class: mood = {
-  name: ["Gabriel],
+  name: ["Gabriel"],
   hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
   languages: ["Portugese - Native"], ["English"],
   studying: ["System Analyst - Fortaleza/CE",],
