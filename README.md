@@ -33,4 +33,3 @@ public class: mood = {
     <img src="https://user-images.githubusercontent.com/108163958/231929728-0cd56920-71f5-4835-a135-e24bf699dc2d.png" alt="steam" width="40" height="40"/> 
   </a>  
 </p>
-  
