@@ -26,7 +26,7 @@ public class: mood = {
   String languages: ("Portugese - Native"), ("English");
   String studying: ("System Analyst - Fortaleza/CE");
   String code: ("Java" && "JavaScript");
-  String funFact: ("fã Tim Maia nas horas vagas");
+  String funFact: ("fã de Tim Maia nas horas vagas");
 }
 ```
   
