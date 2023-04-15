@@ -22,11 +22,11 @@ public class: mood = {
 
 ```java
 public class: mood = {
-  String hobbies: "Xadrez", "Board Games", "Puzzles", && "Encher seu saco";
+  String hobbies: ("Xadrez"), ("Board Games"), ("Puzzles"), && ("Encher seu saco");
   String languages: ("Portugese - Native"), ("English");
   String studying: ("System Analyst - Fortaleza/CE");
   String code: ("Java" && "Java");
-  String funFact: ("fã de Shin Megami Tensei nas horas vagas");
+  String funFact: ("fã Tim Maia nas horas vagas");
 }
 ```
   
