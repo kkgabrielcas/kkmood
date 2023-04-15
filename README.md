@@ -30,7 +30,7 @@ public class: mood = {
 }
 ```
   
-<h3 align="left">Mais sobre mim :)</h3>
+<h3 align="left">Minhas outras redes :)</h3>
 
 
 <p align="left"> 
