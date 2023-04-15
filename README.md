@@ -11,11 +11,11 @@
 <!--
 ```java
 public class: mood = {
-  hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
+  hobbies: "Xadrez", "Board Games", "Puzzles" && "Encher seu saco",
   languages: ["Portugese - Native"], ["English"],
   studying: ["System Analyst - Fortaleza/CE"],
   code: ("Java && JavaScript");
-  funFact: "sou boboca"
+  funFact: "fã de Seu Jorge nas horas vagas"
 }
 ```
 -->
