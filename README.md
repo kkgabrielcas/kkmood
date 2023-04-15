@@ -7,7 +7,8 @@
 <h5>
 
 ## Sobre mim
-
+  
+<!--
 ```java
 public class: mood = {
   hobbies: ["Xadrez", "Board Games", "Puzzles" && "Encher seu saco"],
@@ -17,7 +18,18 @@ public class: mood = {
   funFact: "sou boboca"
 }
 ```
+-->
 
+```java
+public class: mood = {
+  String hobbies: "Xadrez", "Board Games", "Puzzles", && "Encher seu saco";
+  String languages: ("Portugese - Native"), ("English");
+  String studying: ("System Analyst - Fortaleza/CE");
+  String code: ("Java" && "Java");
+  String funFact: ("fã de Shin Megami Tensei nas horas vagas");
+}
+```
+  
 <h3 align="left">Mais sobre mim :)</h3>
 
 
