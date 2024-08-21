@@ -1,4 +1,4 @@
-### Oi, eu sou Gabriel de Castro ⚖
+### Oi, eu me chamo Gabriel ⚖
 
 ![wallhaven-lqw5wr_2560x1440~2](https://user-images.githubusercontent.com/108163958/231914865-d82ba7b5-7687-4767-919b-73ecb6d3e326.png)
 <hr>
