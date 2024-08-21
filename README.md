@@ -25,7 +25,7 @@ public class: Gabriel = {
   String hobbies: ("Xadrez"), ("Board Games"), ("Puzzles"), && ("Encher seu saco");
   String languages: ("Portugese - Native"), ("English");
   String studying: ("System Analyst - Fortaleza/CE");
-  String code: ("Java", "Python");
+  String code: ("Python");
   String funFact: ("fã de Tim Maia nas horas vagas");
 }
 ```
