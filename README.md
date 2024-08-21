@@ -21,7 +21,7 @@ public class: mood = {
 -->
 
 ```java
-public class: mood = {
+public class: Gabriel = {
   String hobbies: ("Xadrez"), ("Board Games"), ("Puzzles"), && ("Encher seu saco");
   String languages: ("Portugese - Native"), ("English");
   String studying: ("System Analyst - Fortaleza/CE");
