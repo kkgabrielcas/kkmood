@@ -3,7 +3,7 @@
 ![wallhaven-lqw5wr_2560x1440~2](https://user-images.githubusercontent.com/108163958/231914865-d82ba7b5-7687-4767-919b-73ecb6d3e326.png)
 <hr>
 <h5 align='center'>
-  / <> with 🧡 By <a href="https://github.com/kkmood">Gabriel</a> /
+  / <> with ❤️ By <a href="https://github.com/kkmood">Gabriel</a> /
 <h5>
 
 ## Sobre mim
